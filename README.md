@@ -1,0 +1,2 @@
+# dataadapter
+可用于以回调接口IData的办法，将数据适配到以ListView或者RecyclerView来展示数据的情况中，并且中间以holder缓存数据。这是展示数据最常用的方式之一。
